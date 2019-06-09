@@ -1,0 +1,60 @@
+.hidden {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 25px;
+}
+
+#radio1 {
+  text-align: center;
+  border: solid;
+  border-color: purple;
+  border-width: thin;
+  padding: 20px;
+  margin: 10px;
+  vertical-align: middle;
+}
+
+label {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: bold;
+}
+
+#gay-message {
+  border: solid;
+  border-width: 10px;
+  border-color: purple;
+}
+
+#straight-message {
+  border: solid;
+  border-width: 10px;
+  border-color: grey;
+}
+
+div {
+  margin: 20px;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.button {
+  padding-top: 10px;
+  text-align: center;
+}
