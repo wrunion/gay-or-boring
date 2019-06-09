@@ -2,6 +2,12 @@
   display: none;
 }
 
+.container {
+  border: solid;
+  border-color: purple;
+  border-width: thin;
+}
+
 h1 {
   text-align: center;
   padding-top: 25px;
@@ -9,9 +15,6 @@ h1 {
 
 #quiz {
   text-align: center;
-  border: solid;
-  border-color: purple;
-  border-width: thin;
   padding: 20px;
   margin: 10px;
   vertical-align: middle;
